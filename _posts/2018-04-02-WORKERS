@@ -1,0 +1,50 @@
+---
+layout: post
+title: Workers
+---
+
+# Workers
+
+Worker empire is your way to making passive income.
+
+recruit workers from the work supervisor found in each city.
+
+Each worker will gain experiance and levels as they are active in game.
+
+## Worker Stats
+
+- Work speed; the time it takes to get a job done, how fast work is done.
+
+Each node will have a 'work load', the total amount of work needing to be done, A worker will peform the work speed amount every cycle. 
+When the work load is completed worker will return to city with resources or materials from node.
+
+Note - A node with a 200 workload, a goblin with 150 workspeed will require 2 cycles to complete the given task.
+
+- Moving Speed; the time it takes to travel to node, how fast the travel distance.
+- Luck; tinfoil hat, no effect
+- Stamina; the time it takes before a worker stops, cycles before needing to be fed.
+
+## Worker Race
+
+- Goblins; faster moveing speed, but small stamina
+- Humans; middle, balance of move speed and stamina
+- Giants; huge stamina pool, slowest worker
+- Papu; Kama version of goblin, slightly higher stats
+- Fadus; Kama version of Human, slightly higher stats
+
+## Worker Tiers
+
+- Artisan
+- Professional, 
+- Skilled, If you are just getting started try to start here
+- Normal, Basic worker tier
+- Nieve, Worst worker tier, avoid at all cost
+
+## Worker Skills
+
+- Advanced Skill; Consume 4x materials to create 4x crates or items during 1 cycle.
+- Farm Knowledge; Additional +5 work speed when working nodes. May reduce cycles required to complete a given task
+- Craftmanship;
+- Thrifty
+
+-
