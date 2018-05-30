@@ -1,0 +1,1022 @@
+---
+title: Patch Notes
+category: Patch Notes
+---
+Patch Notes - 30th May 2018
+30 May 2018 12:00
+
+Greetings Adventurers,
+
+Have you had your fill of base jumping off the tallest structures in Black Desert? Yea, we haven’t either. Add to your arsenal of ever-growing aerial acrobatics while you dance around the battlefield with the release of Lahn’s Absolute Skills. Whether you’re a veteran who just hasn’t found the time, or a new recruit interested in creating their own tall tales of wild adventures. Now has never been a better time than to try your hand at hunting as we usher in the Valencia Hunt-a-thon.
+
+Be sure to catch up on the latest events like the Lauren Family Gift Event, and new content introduced with this week's patch below:
+
+[Event]
+
+Lauren Family Gift event has started.
+
+Event Period: 5/31 00:00 UTC ~ 6/20 Before Maintenance
+
+During the event period, Get [Event] Lauren Family Coin x10 per 1 hour through the Challenges (Y) window.
+
+[Event] Lauren Family Coins can be collected up to 5 times per day through Challenges (Y).
+
+Click < Here > for details on the dazzling event.
+
+Valencia Hunt-a-thon has started.
+
+Event Period: 5/30 After Maintenance ~ 6/13 Before Maintenance
+
+How to participate: Defeat each of Giant Mountain Goat, Giant Lioness, and Giant Lion with [Hunting] Matchlock during the event period and get the great rewards as your trophies!
+
+Participation Rewards are given out to all adventurers who participate in this event and the Special Rewards will be given out to the selected participants who get lucky from a draw.
+
+Valencia Hunt-a-thon
+
+Event Period:
+
+5/30 After Maintenance ~ 6/13 Before Maintenance
+
+Participation Rewards:
+
+[Event] Spellbound Tool Box x1
+
+[Event] Extra Life EXP Scroll x3
+
+Elixir of Flowing Time x5
+
+Special Reward (Drawn from participants by BDO team):
+
+* 100 participants will win:
+
+[Event] High-Quality Draught Box x5
+
+[Event] Cron Meal Box x5
+
+
+*30 participants will win:
+
+[Event] Frosted Matchlock (Blue-grade)
+
+
+*10 participants will win:
+
+[Event] Value Pack (20 Days)
+
+Rewards given out:
+
+6/13 After Maintenance
+
+Find your balance. Via in-game mailbox (B) after the maintenance, you will be able to find a little token of appreciation we’ve sent for bearing with us the recent class balance updates big and small. We are trying to provide the best balanced environment where all classes can compete and cooperate in harmony. Please continue to show your feedback and we will endeavor to bring updates that would ensure the most stable surrounding for all.
+
+[Event] Armstrong’s Skill Guide (1 Day) x1 and [Event] Cliff’s Skill Add-on Guide (1 Day) were given out to all adventurers who have a character created before 5/30 maintenance.
+
+Please find the gifts via in-game mailbox (B) and claim the gifts before June 23rd.
+
+
+
+[Ongoing Events]
+
+Lahn Level-up Challenges (Y): May 23rd  ~ June 13th Before Maintenance
+
+May Drop Event: May 23rd ~ June 6th Before Maintenance
+
+Rose-themed background and crescent moon in night skies: May 16th ~ June 14th Before Maintenance
+
+Returning Attendance Rewards: Mar. 29th 00:00 UTC ~ July 4th 23:59 UTC
+
+Guild Attendance Rewards: Jan. 4th. 00:00 UTC ~ June 30th 23:59 UTC
+
+Loyal Attendance Rewards: May 24th ~ June 27th 23:59 UTC
+
+Valks Attendance Rewards: May 24th ~ June 23rd 23:59 UTC
+
+
+
+[Content]
+
+Absolute skills have been added to Lahn class.
+
+New monsters for Hunting, Giant Mountain Goat, Giant Lioness, and Giant Lion have been added to the north of Arehaza forested area in Valencia.
+
+Each of the (hunting) monsters can be defeated by using a Matchlock.
+
+New items Stuffed Valencia Mountain Goat Head, Stuffed Valencian Lioness Head, and Stuffed Giant Lion Head have been added.
+
+Stuffed head items can be obtained as loot at a chance using a Butcher Knife on the new monsters for Hunting after they are killed and you can install them in your Residence from which you can gain buff effects by interacting with them.
+
+Fixed the issue where hiding other characters function was activated abnormally at times during Node/Conquest Wars.
+
+Fixed the issue where damage was not being done intermittently when attacking Defense Towers with the horse skill Charge in Node/Conquest Wars.
+
+Fixed the issue where guild members did not auto-teleport to the fort of their guild upon start of the node war.
+
+However, only the guild members in the Node War area will be teleported.
+
+Guild members that are located in Safe Zones or areas exclusive to the Node War are not teleported. In this case,  Assemble! function can be used to teleport.
+
+
+
+[System]
+
+Navigation of Heidel Eastern Border area will work properly now.
+
+Fixed the issue where audio would not be played upon setting volume to 0, then raising the volume again, from the game starting screen.
+
+Fixed the issue where the alert message wrongfully referred to Nouver when Karanda was disappearing due to time out.
+
+It has been edited that the display quality in conversation with NPCs would be good even if the quality of the texture is set to Low from Settings -> Display Quality ->  Texture Quality.
+
+Optimization work has been performed to improve frame in areas of Calpheon, Heidel, and Altinova.
+
+
+
+
+
+
+[Game World]
+
+Fixed the issue where characters could go through railings of Valencia Castle.
+
+Fixed the issue where shorter characters would perform swimming in certain parts of Glish Swamp.
+
+Fixed the issue where villager NPCs were mistakenly labeled as soldiers in Ibellab Oasis.
+
+
+
+
+
+
+
+[All Classes]
+
+It has been adjusted that if a character has a negative Karma and gets killed by a monster, the character’s EXP will decrease by 2%.
+
+For Awakening skills with counter features, defense effect has been reapplied, and CC skill effects will not be applied in PvP.
+
+Super Armor defense effect has been added to skills that could be performed upon entry into combat. Thus, more engaging combat will be made possible.
+
+For Flow skills that are performed in combos after the preceding skills will now maintain the defense effect of the preceding skills.
+
+However, if it’s a Flow skill that can be used independently, defense effect will be applied as the other ordinary skills.
+
+CC effect has been removed from skills that have defense effects (only in PvE).
+
+However, the classes Witch and Wizard will keep the 1 skill of each element type (i.e. fire, earth, water, etc.) that gets to have a CC effect and a defense effect at the same time in consideration to the skills and skill motion’s characteristics in their Awakening mode.
+
+For more details, please check the changes under each character:
+
+
+
+
+
+Text of ‘Forward Guard’ has been added to the skill description of the following skills to match with the actual effect of the skills:
+
+Shield Charge I, Shield Charge II, Absolute: Shield Charge, Double Shield Charge, and Ultimate: Shield Charge
+
+Fixed the issue where ‘S’ key and Left-click used together could not activate the skill Furious Blow.
+
+Fixed the issue where Down Smash effect was not being applied properly for the skill Ultimate: Ground Smash.
+
+Forward Guard effect has been added on the skill Pulverize.
+
+Forward Guard effect has been added on the skill Flow: Tempest.
+
+Bound effect will now only be applied in PvE for the skill Grave Digging.
+
+Bound effect will now only be applied in PvE for the skill Flow: Slashing the Dead.
+
+Floating effect has been removed from the skill Flow: Knee Kick.
+
+Number of hits has increased, and damage reduction effect will be applied during cooldown for the skill Flow: Knee Kick:
+
+2 Hits →  4 Hits
+
+Floating effect on 1 hit will now only applied in PvE for the skill Shield Tide.
+
+Knockback effect on 1 hit and Bound effect on 2 hits will now only be applied in PvE for the skill Shield Assault.
+
+Bound effect will now only be applied in PvE for the skill Seismic Strike.
+
+Text of ‘Forward Guard’ has been added to the skill description of the following skills to match with the actual effect of the skills:
+
+Shield Charge I,Shield Charge II, Absolute: Shield Charge, Double Shield Charge, Ultimate: Shield Charge
+Appearance of Treant Camouflage Longsword has been made more natural.
+
+Tooltip description of the skill Kick has been amended to correctly display the skill effects.
+
+Down Attack → Down Attack on good 1 hit
+
+Air Attack → Air Attack on good 2 hits
+
+Down Smash → Down Smash on good 1 hit
+
+Air Smash → Air Smash on good 2 hits
+
+Tooltip description of the skill Shield Tide has been amended to correctly display the skill effects.
+
+Air Smash → Air Smash on good 2 hits
+
+
+
+
+
+Fixed the issue where Evasive Explosion Shot could not be used after using the skill Will of the Wind with having the skill Flow: Wings of Wind I learned.
+
+Super Armor effect has been added, and Stiffness effect will now only be applied in PvE for the skill Breezy Blade.
+
+Super Armor effect has been added, and Stun effect will now only be applied in PvE for the skill Flow: Rushing Wind.
+
+Knockdown effect will now only be applied in PvE for the skill Elven Rage.
+
+Stun effect will now only be applied in PvE for the skill Nature’s Tremble.
+
+Fixed the issue where number of hits was not properly applied to the skill Flow: Rooting.
+
+3 Hits → 4 Hits
+
+Damage of Extra Hit of the skill Will of the Wind III has been changed as it dealt less damage compared to other levels of the skill.
+
+Damage: 87% → 93%
+
+Text of ‘Damage reduction effect will be applied in cooldown in PvE only’ has been added to the skill tooltip of the skill Absolute: Will of the Wind.
+
+Fixed the issue where Evasive Explosion Shot could not be used after using the skill Will of the Wind with having the skill Flow: Wings of Wind I learned.
+
+
+
+
+
+Forward Guard effect has been added, and Stiffness effect will now only be applied in PvE for the skill Vile Plan.
+
+Damage Reduction effect in PvP has been removed from the skill Vile Plan.
+
+Stun effect will now only be applied in PvE for the skill Engulfing Shadow.
+
+Skill tooltip of the skill Cartian’s Nightmare has been edited to state ‘Stiffness on 1 good hit’ now.
+
+Fixed the issue where Air Attack defense effect for the skill Violation activated by using Shards of Darkness was not being applied.
+
+Floating effect will now only be applied in PvE for the skill Cartian's Protection.
+
+Knockdown effect will now only be applied in PvE for the skill Abyssal Blow.
+
+Edited the skill description of the skill Shadow Ignition:
+
+Floating on good hits → Floating on good 1 hit
+
+Air Smash → Air Smash on good Explosion hit
+
+Fixed the issue where the underwear would be shown in the neck area of the Sorceress when wearing the Ram Horn Witch Clothes together with certain underwear.
+
+The aggro effect of pulling in the target will occur less frequently upon using the skill Cartian’s Protection consuming 100% Black Spirit’s Rage.
+
+Transition to the Scythe has been made smoother after performing a successful hit of the skill Midnight Stinger.
+
+CC skill effect applied on targets while transitioning into Awakening mode will now be applied only in PvE.
+
+
+
+
+
+Forward Guard effect has been removed from the skill Feral Stampede.
+
+Bound effect will now only be applied in PvE for the skill Wailing Beast.
+
+Knockdown effect will now only be applied in PvE for the skill Axe of Destruction.
+
+Stiffness, Stun, and Knockback effect will now only be applied in PvE for the skill Flow: Slugfest.
+
+Stun effect will now only be applied in PvE for the skill Devastation.
+
+Super Armor effect has been added, and Stun effect will now only be applied in PvE for the skill Flow: Earth Dividing.
+
+Fixed the issue where the amount of damage dealt did not match the number of hits applied for the skill Rooting.
+
+Targets: 3 Hits → 4 Hits
+
+Damage: 1427% → 1034%
+
+Fixed the issue where the skill Shake Off to the right would push back the targeted monster to the left.
+
+Skill effects of the following skills have changed:
+
+Rock Smash + W (Charge)
+
+Tackling Rock
+
+
+
+
+
+Stun effect will now only be applied in PvE for the skill Resonance.
+
+Stiffness and Bound effect will now only be applied in PvE for the skill Cloud Stomping.
+
+Bound effect will now only be applied in PvE for the skill Flow: Cloud Ride.
+
+Super Armor effect has been added, and Stiffness effect will now only be applied in PvE for the skill Moonlight Strike.
+
+Super Armor effect has been added to the skill Flow: Full Moon.
+
+Stiffness and Floating effect will now only be applied in PvE for the skill Allround Spinner.
+
+Forward Guard effect has been added, and Knockdown effect will now only be applied in PvE for the skill Flow: Soaring Strike.
+
+Fixed the lag issue that occurred at times when using the skill Soaring Kick.
+
+Fixed the issue where Floating effect was not applied properly for the skill Soaring Kick.
+
+It has been edited that 2 hits will be applied only to targets captured with the skill Soaring Kick.
+
+The following has been added to the skill tooltip of the skill Moonlight Strike:
+
+Spin of good hit(s) (PvE) only.
+
+
+
+
+
+Text of ‘Stun on a good hit’ has been added to the skill description of the skill Flow: Spinning Shield to match with the actual effect of the skill.
+
+Stun effect will now only be applied in PvE for the skill Divine Descent.
+
+Knockdown effect will now only be applied in PvE for the skill Divine Slam.
+
+Stun effect will now only be applied in PvE for the skill Purificatione.
+
+Super Armor effect has been added, and Knockback and Knockdown effect will now only be applied in PvE for the skill Hastiludium.
+
+Bound effect will now only be applied in PvE for the skill Sanctitas de Enslar.
+
+Floating effect will now only be applied in PvE for the skill Verdict: Lanciaustitiae.
+
+Super Armor effect has been added to the skill Flow: Revelation Sanctus.
+
+Stamina required has been removed from the skill Guard.
+
+The text regarding Stamina required has been removed from the tooltip of the skill Guard.
+
+Moving distance to the front has increased for the skill Death Line Chase.
+
+Appearance of Treant Camouflage Longsword has been made more natural.
+
+
+
+
+
+Fixed the issue where damage could not be inflicted on targets beside monsters and other players when using the skill Detonative Flow during cooldown.
+
+Bound effect will now only be applied in PvE for the skill Swift Earthquake.
+
+Stiffness effect will now only be applied in PvE for the skill Trembling Thunder.
+
+Fixed the difference in the text description and actual MP recovered for the skill Detonative Flow II.
+
+Stiffness effect will now only be applied in PvE for the skill Equilibrium Break.
+
+Stun effect will now only be applied in PvE for the skill Thunder Storm.
+
+
+
+
+
+Bound effect will now only be applied in PvE for the skill Swift Earthquake.
+
+Stiffness effect will now only be applied in PvE for the skill Trembling Thunder.
+
+Stiffness effect will now only be applied in PvE for the skill Aqua Jail Explosion.
+
+Bound effect will now only be applied in PvE for the skill Bolide of Destruction.
+
+Fixed the issue where dyeing of [Wizard] Inquirer's Destiny Dagger did not work on standby.
+
+
+
+
+
+It has been improved that the skill Stub Arrow could be activated slightly faster during Backward Chase after having learned the skills Charged Stub Arrow: Enhanced and Absolute: Charged Stub Arrow.
+
+Fixed the issue where target hits were not properly applied when performing the skills Whirlwind Cut III, Whirlwind Cut IV, and Absolute: Whirlwind Cut to the left.
+
+2 Hits → 3 Hits
+
+Fixed the issue where the character would stop intermittently when using the skill Blooming after performing the skill Chase in Awakening mode.
+
+Super Armor effect has been removed when the skill Crosscut is used in Musa's Soul mode, and Crosscut will now be able to be activated without any resource consumption or cooldown applied.
+
+Skill tooltip of Crosscut has been edited to state that the skill can be activated without WP consumption in Musa’s Soul mode. Whirlwind Cut will properly inflict 3 hits now when activated to the left side; a fix from inflicting 2 hits from before.
+
+Knockdown effect will now only be applied in PvE for the skill Crust Crusher.
+
+Down Smash effect has been removed from the skill Crust Crusher.
+
+Down Smash effect has been added to the skill Flow: Foul Play.
+
+Forward Guard effect has been added, and Knockback effect will now only be applied in PvE for the skill Flow: Foul Play.
+
+Stiffness effect will now only be applied in PvE for the skill Flow: Backflow.
+
+Knockback and Stun effect will now only be applied in PvE for the skill Counter Assassination.
+
+Bound effect will now only be applied in PvE for the skill Below the Belt.
+
+Fixed the issue where dyeing of the [Musa] Gavi Regan Blade was not displayed properly when the color dye was too dark.
+
+
+
+
+
+Fixed the issue where Stiffness effect was not applied upon using the skill Stub Arrow: Triple Shot after having learned Stub Arrow II.
+
+Fixed the issue where target hits were not properly applied when performing the skills Whirlwind Cut III, Whirlwind Cut IV, and Absolute: Whirlwind Cut to the left.
+
+2 Hits → 3 Hits
+
+Fixed the issue where the character would stop intermittently when using the skill Blooming after performing the skill Chase in Awakening mode.
+
+Forward Guard effect has been added, and Stun effect will now only be applied in PvE for the skill Royal Rage.
+
+Fixed the issue where 2nd hit damage was duplicated for the skill Chaos: Crimson Gust.
+
+The skill Sprint has become faster and its motion has become more animated in Kerispear combat mode.
+
+Super Armor effect has been added, and Stun effect will now only be applied in PvE for the skill Petal Drill.
+
+Super Armor effect has been added, and Knockdown effect will now only be applied in PvE for the skill Flow: December.
+
+Knockdown effect will now only be applied in PvE for the skill Frost Pillars.
+
+Forward Guard effect has been added, and Knockdown effect will now only be applied in PvE for the skill Tip of an Iceberg.
+
+Super Armor effect has been removed from the skill Moonrise.
+
+Fixed the issue where PvP damage was applied lower than it actually should depending on the number of targets for the skill Flow: Cloud Stab.
+
+Stiffness effect will now only be applied in PvE for the skill Blooming Stride.
+
+Stiffness effect will now only be applied in PvE for the skill Blooming Step.
+
+Fixed the awkward graphics of the underwear when in combat stance with the Epheria Marine Underwear on.
+
+CC skill effect applied on targets while transitioning into Awakening mode when moving forward will now be applied only in PvE.
+
+
+
+
+
+Fixed the issue where Bound effect was applied continuously to characters around the caster upon using the skill Suicide Fall.
+
+Stiffness effect will now only be applied in PvE for the skill Ninjutsu: Decapitation.
+
+Stiffness effect will now only be applied in PvE for the skill Illusion of Restraint.
+
+Forward Guard effect has been added, and Stun effect will now only be applied in PvE for the skill Vengeful Barrier.
+
+Floating and Knockdown effect will now only be applied in PvE for the skill Vacuum Slash.
+
+Stun effect will now only be applied in PvE for the skill Sura ChaoSpree.
+
+Floating effect will now only be applied in PvE for the skill Bloodthirst: Katana Shower.
+
+
+
+
+
+Fixed the issue where Forward Guard was not being maintained intermittently when receiving hit while moving backwards while having the Kunai equipped.
+
+Fixed the issue where Bound effect was applied continuously to characters around the caster upon using the skill Suicide Fall.
+
+Fixed the issue where Floating effect was not applied properly when pressing the Left-directional key (Key: A) after using the skill Flow: Block Jump while having Throwing Kick I learned.
+
+Forward Guard effect has been added, and Stun effect will now only be applied in PvE for the skill Halo.
+
+Stun effect will now only be applied in PvE for the skill Assassin's Trail.
+
+Bound effect will now only be applied in PvE for the skill Ninjutsu: Heart Snatch.
+
+Bound effect will now only be applied in PvE for the skill Danse Macabre.
+
+Stiffness and Stun effect will now only be applied in PvE for the skill Lethal Spin Spree.
+
+Fixed the issue where the damage of the last hit of the skill Lethal Spin Spree did not deal proper damage when performed with 200% Black Spirit’s Rage.
+
+Stiffness effect has been removed from the the last hit of the skill Lethal Spin Spree when performed with 200% Black Spirit’s Rage.
+
+Super Armor effect has been added, and Floating effect will now only be applied in PvE for the skill Flow: Wrath.
+
+Fixed the issue where Stun effect was not applied in PvP when entering ↑ directional key after using the skill Flow: Block Jump in Crimson Eclipse mode.
+
+
+
+
+
+Fixed the issue where Moving Speed increase buff was not applied upon using the skill Smoky Haze I, Smoky Haze II, and Smoky Haze III with a Kriegsmesser.
+
+Forward Guard effect has been added, and Stiffness effect will now only be applied in PvE for the skill Hallucination Gap.
+
+Bound effect will now only be applied in PvE for the skill Wrath of Vedir.
+
+Floating effect will now only be applied in PvE for the skill Obsidian Blaze.
+
+Stun effect will now only be applied in PvE for the skill Spirit Legacy.
+
+Super Armor effect has been added, and Stiffness effect will now only be applied in PvE for the skill Spirit Hunt.
+
+Stiffness effect has been removed from the skill Grip of Grudge.
+
+Fixed the awkward motion that came out when using the skill Unveiled Dagger.
+
+Fixed the issue where Stiffness effect not stated in the skill tooltip was being applied when inflicting a hit with the skill Flow: Termination.
+
+
+
+
+
+Fixed the issue where the order of high-level skills states in the Skill Combo Guide did not match the actual skill videos.
+
+Fixed the issue where the Echo Spirit would spawn at an abnormal place for the skill Rampaging Predator I.
+
+Fixed the hesitant motions upon using the skills Rampaging Predator II and Rampaging Predator III.
+
+Knockdown effect will now only be applied in PvE for the skill Perfect Blow.
+
+Bound effect will now only be applied in PvE for the skill Iron Fist Fury.
+
+Stun effect will now only be applied in PvE for the skill Echo Spirit.
+
+Stun effect will now only be applied in PvE for the skill Rampaging Predator.
+
+Forward Guard effect has been added on the skill Flow: Bite Off.
+
+Knockdown effect will now only be applied in PvE for the skill Skull Crusher.
+
+Super Armor effect has been added, and Knockdown effect will now only be applied in PvE for the skill Flow: Skull Hammer.
+
+Forward Guard effect has been changed to Super Armor effect for the skill Ferocious Assault.
+
+Fixed the issue where hair would show above helmet with the Serendian Soldier Helmet equipped.
+
+
+
+
+
+Knockdown effect will now only be applied in PvE for the skill Perfect Blow.
+
+Bound effect will now only be applied in PvE for the skill Iron Fist Fury.
+
+Knockdown effect will now only be applied in PvE for the skill Infinite Fortitude.
+
+Stiffness effect will now only be applied in PvE for the skill Enhance: Wolf's Frenzy.
+
+Floating effect will now only be applied in PvE for the skill Rising Dragon.
+
+Super Armor effect has been added, and Bound effect will now only be applied in PvE for the skill Sea Burial.
+
+Super Armor effect has been added to the skill Sea Burial.
+
+Knockdown effect will now only be applied in PvE for the skill Dragon's Rip.
+
+
+
+
+
+Absolute skills for Lahn has been added.
+
+Absolute: Moondance, Absolute: Moon Slash, Absolute : Pendulum Kick, Absolute: Pendulum Kick II, Absolute: Crescent Barrage, Absolute: Soul Ascent, Absolute: Blooming Nether Flower, Absolute: Berated Ghost, Absolute: Cymbidium, Absolute: Three Point Stipple, Absolute: Deadly Restraint, Absolute: Coax, Absolute : Salp'uri Purge, Absolute: Fragrant Stigma, Absolute: Furious Chase, Absolute: Blade Dance, Absolute: Eye of the Phoenix, Absolute: Pendulum Cleaver, Absolute: Dismemberment, Absolute: Catasetum, Absolute: Wind Orchid, Absolute: Sacred Dance, Absolute : Spring Breeze, Absolute: Ethereal Dance
+
+When a certain level is reached, you can learn Absolute skills for Lahn under Main skill window.
+
+Please don’t forget you need to have reached the max level of the preceeding skill of the Absolute skill to get the chance to learn it.
+
+Absolute skills will inflict bigger damage and more hits compared to main skills.
+
+Super Armor effect will now be applied when consuming 100% of Black Spirit’s Rage to use the skill Pendulum Kick.
+
+Fixed the issue where the appearance of the life skill costume exchanged with Equipment Tailoring Coupon would not be shown properly.
+
+It has been adjusted that Down Smash effect would be applied to the first hit of the skill Flow: Sacred Dance.
+
+It has been fixed that the Bound effect of the skill Three Point Stipple would be applied properly.
+
+
+
+
+
+Information about making Stonetail Fodder has been added to the item descriptions of the following farming byproducts:
+
+Mutant Plant
+
+Premature Fruit
+
+Seed Half Eaten by a Bird
+
+Plant with Rotting Roots
+
+Unusual Fruit
+
+Fixed the issue where the helmet of Serendian Soldier outfit would not be dyed properly.
+
+Maximum prices in Marketplace for certain TET and PEN accessories have been adjusted.
+
+Maximum prices in Marketplace for certain PEN World Boss Main Weapons, Sub-weapons, and Defense Gears have been adjusted.
+
+Fixed how Maximum Durability for PEN items was not being recovered.
+
+Fixed the issue where obtainable kinds of seeds differed from Special seeds when performing Upgrade on Magical seeds of certain crops:
+
+Sunrise Herb, Carrot, Hot Pepper, Olive,  Arrow Mushroom
+Description and effect of Crown items rewarded from Conquest war have been edited.
+
+Item tooltips of Gold Key and Silver Key were edited.
+
+Fixed the issue where world boss Vell could be damaged even before spawning when cannons were fired inside the whirlpool of its appearance.
+
+Fixed the wrong text of the item description of Mystical Golden Egg.
+
+Thanks to the high support and demand, we brought back the 3 boxes sold exclusively on the weekend flash sale last week~ For details on this and more newly added Pearl Shop Update, please click < Here > !
+
+
+
+
+
+World Bosses will spawn following the timetable below and once a world boss is spawned, PvP will be disabled for 15 minutes. Before, adventurers had to wait a long time for randomly spawning bosses. The fixed time schedule and PvP prevention are set to alleviate such problems and also rid of unnecessary time wasted and harm done amongst players combating each other during a boss spawn. All in all, this would help improve server delays.
+
+The following world bosses will now spawn properly in the schedule below:
+
+NA
+
+SPAWN TIME
+
+23:00 PDT
+
+07:00 PDT
+
+13:00 PDT
+
+17:00 PDT
+
+21:00 PDT
+
+MON
+
+Kzarka    Karanda
+
+Kutum
+
+Karanda    Nouver
+
+Kutum    Kzarka
+
+Offin
+
+TUES
+
+Nouver    Kutum
+
+Kzarka
+
+Kutum    Karanda
+
+Kzarka    Nouver
+
+Nouver
+
+WED
+
+Karanda    Kzarka
+
+Nouver
+
+Nouver    Kutum
+
+Kutum    Karanda
+
+Offin
+
+THUR
+
+Kutum    Nouver
+
+Karanda
+
+Nouver    Kzarka
+
+Karanda    Kutum
+
+Kutum
+
+FRI
+
+Kzarka    Karanda
+
+Kutum
+
+Kzarka    Nouver
+
+Kutum    Kzarka
+
+Offin
+
+SAT
+
+Nouver    Kutum
+
+Kzarka
+
+Quint    Muraka
+
+Kzarka    Kutum
+
+Karanda
+
+SUN
+
+Karanda    Kzarka
+
+Nouver
+
+Vell
+
+Karanda    Kzarka
+
+Nouver
+
+EU
+
+SPAWN TIME
+
+01:00 CEST
+
+09:00 CEST
+
+16:00 CEST
+
+19:00 CEST
+
+23:00 CEST
+
+MON
+
+Kzarka    Karanda
+
+Kutum
+
+Karanda    Nouver
+
+Kutum    Kzarka
+
+Offin
+
+TUES
+
+Nouver    Kutum
+
+Kzarka
+
+Kutum    Karanda
+
+Kzarka    Nouver
+
+Nouver
+
+WED
+
+Karanda    Kzarka
+
+Nouver
+
+Nouver    Kutum
+
+Kutum    Karanda
+
+Offin
+
+THUR
+
+Kutum    Nouver
+
+Karanda
+
+Nouver    Kzarka
+
+Karanda    Kutum
+
+Kutum
+
+FRI
+
+Kzarka   Karanda
+
+Kutum
+
+Kzarka    Nouver
+
+Kutum    Kzarka
+
+Offin
+
+SAT
+
+Nouver    Kutum
+
+Kzarka
+
+Quint    Muraka
+
+Kzarka    Kutum
+
+Karanda
+
+SUN
+
+Karanda    Kzarka
+
+Nouver
+
+Vell
+
+Karanda    Nouver
+
+Kzarka
+
+Kzarka, Karanda, Kutum, Nouver, and Offin will spawn in all servers (except Arsha and Olvia servers).
+Quint and Muraka will also spawn in all servers compared to the previous 20 random servers before (except Arsha and Olvia servers).
+Vell will spawn in the 10 fixed servers (Balenos 4&5, Serendia 4&5, Calpheon 4&5, Valencia 4&5, and Mediah 4&5.
+World Bosses will despawn naturally after 15 minutes since appearance.
+
+Even if the World Bosses have engaged in battle, they will despawn regardless in 15 mins. from spawn. And as reward loot for the pure action of engaging in combat with World Bosses will be given, we feel this will allow more adventures (both new and loyal) to participate in World Boss battles.
+
+This change applies to all world bosses but excludes Vell. Vell will follow the same pattern as before where it will despawn if not engaged in battle for 30 mins., and despawn naturally 1 hr. after initial appearance. Also, Vell will not drop loot if not completely defeated.
+
+PvP will not be allowed (in all servers) upon a World Boss spawn.
+
+Duel, Forced PvP, Guild war will not be progressed during this period and damage will not be inflicted on other adventurers. Players will not be able to inflict hit in the guild wars under progress.
+
+Team Battle and Final Battle will not be registrable 30 mins. before, and 15 mins. after a world boss spawn.
+
+Adventurers in Duel will automatically be released from the combat.
+
+Only Red Battlefield and Arena of Arsha will be exclusively allowing PvP regardless of the world boss spawn.
+
+Server Change is not allowed for 15 minutes after a World Boss spawns.
+
+Team Battle and Final Battle participation will be restricted before and after a field boss spawns.
+
+Reward loot will be given to all adventurers who have participated in defeating the following world bosses:
+
+Kzarka, the Lord of Corruption
+
+Nouver
+
+Karanda
+
+Ancient Kutum
+
+Muraka
+
+Quint
+
+Participants with contribution that fall in the low 10% rank in defeating World Bosses will not be able to acquire the following items from each of the world boss:
+
+Kzarka, the Lord of Corruption: Kzarka's Sealed Weapon Box
+
+Nouver: Nouver's Sealed Sub-weapon Box
+
+Karanda: Dandelion Weapon Box
+
+Ancient Kutum: Kutum’s Sealed Sub-weapon Box
+
+Mirumok Destroyer Offin: Offin Tett's Light Sealed Weapon Box
+
+Reward loot will be obtainable for world bosses even when these world bosses despawn naturally.
+
+However, only the adventurers who have inflicted a certain amount of damage will be able to obtain the items.
+
+Chance to obtain rare loot items for defeating world bosses (not when they are naturally despawned) has doubled.
+
+Nouver will now spawn right after the world message notifying of its appearance is displayed.
+
+The following has been changed for the world boss Mirumok Destroyer Offin:
+
+Mirumok Destroyer Offin will now awaken right after the world message notifying of its appearance is displayed.
+
+Mirumok Destroyer Offin will now despawn if not defeated within 15 minutes.
+
+The duration of Mirumok Destroyer Offin going into berserk mode has been changed from 15 mins. to 10 mins.
+
+Mirumok Destroyer Offin, Watcher Offin Tett, and Root of Offin’s HPs have decreased by 50% and DPs have decreased by 20%.
+
+Offin's Force Shield HP has decreased by 60%.
+
+HP of Quint and Muraka has decreased by 40%.
+
+Mutant Enhancer dropped as loot have increased from 1~5 to 7~20 pieces for defeating Quint.
+
+Fixed issue where the Guild Boss Muskan of Madness did not disappear even after 2 minutes without engaging in combat.
+
+Asula’s Weakened Magic Accessories have been newly-added as loot items in the following areas:
+
+Abandoned Iron Mine: Asula’s Weakened Magic Necklace
+Helms Post: Asula’s Weakened Magic Ring, Asula’s Weakened Magic Earring
+Elric Shrine: Asula’s Weakened Magic Belt
+Dungeons at Helms Post: Asula’s Weakened Magic Ring, Asula’s Weakened Magic Earring
+Chance to obtain Knowledge has been increased by 2 ~ 5 times for defeating the following monsters:
+
+In Calpheon:
+Calpheon Worm
+Roaming Black Spirit
+Troll Buff Tower
+Troll Barricade
+Troll Siege Soldier
+Rooted Old Wood Treant
+Aura of Failed Kzarka
+Calpheon Shadow Guard
+Cyclops Food Drying Stand
+In Mediah:
+Keplan Saw
+Stone Hole Spider House
+High Head Stoneback Crab
+Cox Female Warrior
+In Valencia:
+Centaurus Treasure Chest
+Cadry Summoning Stone
+Casius
+In Kamasylvia:
+Lapis Lazuli Crab
+Rock Rhino
+Kamasylvia Scrub Stoneback Crab
+Kamasylvia Rough Stoneback Crab
+Kamasylvia Small Stoneback Crab
+Kamasylvia Herb Stoneback Crab
+Black Sand Mole
+Silk Shade Flamingo
+2 Stone Rhinos that were awkwardly stationed in Stonetail Horse Ranch have been removed.
+
+Fixed the issue where HP recovery skills were being applied to monsters when a boss monster appears.
+
+Adventurers cannot enter Battle Arena when a world boss spawns.
+
+For adventurers who have already entered Battle Arena when a world boss spawns, the adventurer will be automatically kicked out after 15 seconds.
+
+
+
+
+
+
+
+[Quest]
+
+Fixed the misleading navigation of the quest [Repeat] Bold Investment.
+
+It has been adjusted that proper Knowledge will be gained for obtaining Seaweed through Fishing or Gathering.
+
+Fixed the awkward description in the Knowledge of ‘Magic Crystal of Infinity - Submergence.’
+
+Fixed the awkward navigation issue with the quest Forbidden Prank.
+
+Fixed the issue where Humpback Whales intermittently did not jump out of the sea and therefore could not receive any damage in the quest ‘Small Humpback Whales Disturbing the Sea.’
+
+
+
+
+
+Fixed the issue where Settings UI window could not be closed using the ESC key in the log-in window.
+
+Fixed the description regarding playtime in BDO in the TIP (gametips) found on the low part of the game window.
+
+Fixed the issue where some of the buttons malfunctioned after clicking on Name and Activity of the guild member after setting Guild Bonus.
+
+Territory Resource Information and Node War Information on the World Map (M) have been simplified.
+
+Next claimable Attendance Rewards will now be displayed in the UI upon on End Game window (Disconnect UI).
+
+Fixed the issue where the Requirements for parts of the quests of [Lv.58] Kamasylvia Contribution of Recurring Quests in the quest window (O) were wrongfully stated.
+
+Copyright button has been added to the bottom of the game Settings window.
+
+Fixed the issue where ‘Minimize the Game’ window could not be closed using the ESC key.
+
+Fixed the issue where the Crafting info. differed from Crafting results for Zafina Cannon in the Ship Part Workshop of Port Epheria.
+
+Fixed the issue where the Ad button could not be clicked after registering a recruitment ad through Post Ad function in the  Find Party option (ESC).
+
+
+
+
+
+Fixed the issue where the appearance of the Faint Fairy, upon Rebirth, would sometimes be displayed in an erroneous manner.
+
+Fixed the text issue for the item description of [Lahn] Orchid Fall Classic Set where Awakening Weapon is mentioned to be included in the classic set.
+
+Fixed the issue where chatting was possible with blocked players.
+
+Fixed the issue where other participants were not visible intermittently during Node/Conquest Wars after having the option to hide other adventurers was turned on from Settings → Performance Settings →  Optimization (Beta) Hide Other Adventurers.
+
+
+
+<Known Issue>
+
+We are aware that additional Cron Stones may be used up when trying Enhancement with certain TET level items. This will be fixed and any extra Cron Stones consumed will be restored in next week’s maintenance.
+
+We are aware that clicking a friend’s character name is unresponsive under Friend List window on Friends tab in Menu (ESC). This is being looked into and will be addressed shortly.
